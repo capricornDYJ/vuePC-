@@ -1,0 +1,11 @@
+.el-breadcrumb {
+    margin-bottom: 20px;
+}
+
+.el-tabs {
+    height: 600px !important;
+  }
+  /* .el-tab-pane{
+    height: 400px !important;
+
+  } */
